@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. 
+subtitle: <a href='#'>University of Michigan</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>#220 Victor Vaughan House</p>
+    <p>#220 Victor Vaughan</p>
     <p>1111 E. Catherine Str.</p>
     <p>Ann Arbor, MI 48109, USA</p>
 
