@@ -10,14 +10,21 @@ email: vipopov@umich.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 
-# with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-#  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: CSCL, CSCW, team, simulation, learning analytics, educational technology  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: block_m.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff"> 
+
+##block_m.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vpopov1.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
