@@ -37,7 +37,7 @@ We are currently developing human-AI collaborative techniques that could enable 
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/jva5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
