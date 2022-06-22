@@ -4,7 +4,7 @@ title: JVA in OR
 description: Joint Visual Attention in Surgical Faculty-Resident Dyads
 img: assets/img/JVA.jpg
 importance: 1
-category: work
+category: ongoing
 ---
 
 Learning how to do minimally invasive surgeries (i.e., a type of surgery that involves smaller incisions and shorter recovery time) is a cognitively demanding task that requires a high degree of visuo-spatial coordination between attending (trainer) and resident (trainee) surgeons. The purpose of this project is to determine whether eye-tracking data can be leveraged to augment assessment of surgeons’ readiness and provide trainee-specific opportunities for feedback, practice, and/or remediation. The research team (including collaborators from the Computer Science Department and Department of Surgery at U-M) has done substantial prior work including a series of operating room observations with eye tracking data collection, and an interview study understanding surgeons’ needs and challenges with intraoperative coordination, teaching and learning. 
