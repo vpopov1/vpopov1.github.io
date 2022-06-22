@@ -94,7 +94,7 @@ blog_description: The Technology & Innovation in Medical Education Lab is an int
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 #disqus_shortname: #al-folio # put your disqus shortname
