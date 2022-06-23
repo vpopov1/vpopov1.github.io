@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: a project that redirects to another website
-img: assets/img/surgery.jpg
+img: assets/img/surgery.png
 importance: 3
 category: ongoing
 ---
