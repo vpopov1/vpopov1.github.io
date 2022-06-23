@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Team in Cardiac OR
+description: Optimizing Attending–Fellow Dyad Performance in the Cardiac Operating Room
 img: assets/img/surgery.png
 importance: 3
 category: ongoing
