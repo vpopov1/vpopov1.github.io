@@ -90,14 +90,14 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 blog_name: Technology & Innovation in Medical Education Lab # blog_name will be displayed in your blog page
 blog_nav_title: TIME Lab # your blog must have a title for it to be displayed in the nav bar
 blog_description: The Technology & Innovation in Medical Education Lab is an interdisciplinary team that conducts research about learning, teams and education technology. We primarily solve research problems in the field of medical education and focus on the design of technology rich learning environments, Human-Computer Interaction, Learning analytics, Artifical Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering and the UM School of Information. #a simple whitespace theme for academics
-permalink: #/blog/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 # Comments
-#disqus_shortname: #al-folio # put your disqus shortname
+# disqus_shortname: #al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
