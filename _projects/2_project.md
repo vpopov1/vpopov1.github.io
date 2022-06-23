@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: MMLA in Debriefs
+description: Multimodal Analysis of Student Cognitive and Emotional Responses during Team Debriefs
+img: assets/img/bbn.png
 importance: 2
 category: ongoing
 ---
