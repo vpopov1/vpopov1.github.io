@@ -16,26 +16,26 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 </div>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-4 mt-md-0">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
     <b>Jingying Wang</b> Incoming Ph.D. student 
 </div>
-    <div class="col-sm-4 mt-4 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
     <b>Natalie Mateju</b> Masters student
 </div>
-    <div class="col-sm-4 mt-4 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
     <b>Taylor Kantor</b> MD, Resident, Cardiothoracic Surgery
 </div>
-    <div class="col-sm-4 mt-4 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
