@@ -12,33 +12,40 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 
 <div class="special-class" markdown="2">
-<b>People</b>
+<p style="font-size:50px;">People</p>
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+
+<div class="container">
+  <div class="row align-items-start">
+    <div class="col-md-auto">
         {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    <b>Jingying Wang</b> Incoming Ph.D. student 
+    <b>Jingying Wang</b> 
+    Incoming Ph.D. student 
 </div>
-    <div class="col-sm mt-3 mt-md-0">
+    < <div class="col-md-auto">
         {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    <b>Natalie Mateju</b> Masters student
+    <b>Natalie Mateju</b> 
+    Masters student
 </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-auto">
         {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    <b>Taylor Kantor</b> MD, Resident, Cardiothoracic Surgery
+    <b>Taylor Kantor</b> 
+    MD, Resident, Cardiothoracic Surgery
 </div>
-    <div class="col-sm mt-3 mt-md-0">
+     <div class="col-md-auto">
         {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-   <b>Zhaoyuan Zhang</b> Masters student
+   <b>Zhaoyuan Zhang</b> 
+    Masters student
+</div>
 </div>
 </div>
