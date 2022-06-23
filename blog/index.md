@@ -10,9 +10,8 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 
 <div class="special-class" markdown="2">
-**Ph.D., graduate and undergraduate students**
+<b>Ph.D., graduate and undergraduate students</b>
 </div>
-
 
 
 <div class="row justify-content-sm-center">
@@ -24,6 +23,12 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 </div>
     <div class="col-sm-4 mt-4 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="caption">
+    NAME.
+</div>
+    <div class="col-sm-4 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
     NAME.
