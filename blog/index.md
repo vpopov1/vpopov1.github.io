@@ -38,7 +38,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     </div>
 <div class="caption">
   <p class="font-weight-bold">Taylor Kantor</p> 
-    MD, Resident, Cardiothoracic Surgery
+    MD, Surgical Resident
 </div>
      <div class="col-5 col-sm-4">
         {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
