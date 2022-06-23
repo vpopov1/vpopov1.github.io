@@ -21,6 +21,6 @@ I am an Assistant Professor in the [Department of Learning Health Sciences](http
 
 My research focuses on understanding how team function can be optimized to lead to better learning gains, performance and healthcare outcomes. My background allows me to utilize evidence in education science, simulation-based training and learning analytics to understand how healthcare professionals can better work in teams and how we can support these processes to foster health care delivery.
 
-Research areas: learning analytics, learning sciences, science of team science, computer supported collaborative learning (CSCL), computer supported cooperative work (CSCW),  Human-Computer Interaction, team-based clinical simulation training.
+<p class="font-weight-bold">Research areas:</p> learning analytics, learning sciences, science of team science, computer supported collaborative learning (CSCL), computer supported cooperative work (CSCW),  Human-Computer Interaction, team-based clinical simulation training.
 
 I will be teaching LHS 680 Teamwork for Healthcare in Winter'23. The course will be offered fully in person, fully online, and a little bit of both.
