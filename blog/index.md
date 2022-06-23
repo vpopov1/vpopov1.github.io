@@ -10,12 +10,12 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 
 <div class="special-class" markdown="2">
-Ph.D., graduate and undergraduate students
+**Ph.D., graduate and undergraduate students**
 </div>
 
 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-4 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
