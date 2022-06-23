@@ -9,34 +9,36 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 </div>
 
 
+
+
 <div class="special-class" markdown="2">
-<b>Ph.D., graduate and undergraduate students</b>
+<b>People</b>
 </div>
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-4 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    NAME.
+    <b>Jingying Wang</b> Incoming Ph.D. student 
 </div>
     <div class="col-sm-4 mt-4 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    NAME.
+    <b>Natalie Mateju</b> Masters student
 </div>
     <div class="col-sm-4 mt-4 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    NAME.
+    <b>Taylor Kantor</b> MD, Resident, Cardiothoracic Surgery
 </div>
     <div class="col-sm-4 mt-4 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    NAME.
+   <b>Zhaoyuan Zhang</b> Masters student
 </div>
 </div>
