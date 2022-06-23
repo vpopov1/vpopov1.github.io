@@ -87,10 +87,10 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Technology & Innovation in Medical Education Lab # blog_name will be displayed in your blog page
-blog_nav_title: TIME Lab # your blog must have a title for it to be displayed in the nav bar
-blog_description: The Technology & Innovation in Medical Education Lab is an interdisciplinary team that conducts research about learning, teams and education technology. We primarily solve research problems in the field of medical education and focus on the design of technology rich learning environments, Human-Computer Interaction, Learning analytics, Artifical Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering and the UM School of Information. #a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+#blog_name: Technology & Innovation in Medical Education Lab # blog_name will be displayed in your blog page
+#blog_nav_title: TIME Lab # your blog must have a title for it to be displayed in the nav bar
+#blog_description: The Technology & Innovation in Medical Education Lab is an interdisciplinary team that conducts research about learning, teams and education technology. We primarily solve research problems in the field of medical education and focus on the design of technology rich learning environments, Human-Computer Interaction, Learning analytics, Artifical Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering and the UM School of Information. #a simple whitespace theme for academics
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -117,7 +117,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
- projects:
+  projects:
     output: true
     permalink: /projects/:path/
 
@@ -236,7 +236,7 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true
+  enabled: false
   widths:
     - 480
     - 800
