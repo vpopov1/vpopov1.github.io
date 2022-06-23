@@ -19,32 +19,32 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 <div class="container">
   <div class="row align-items-start">
-    <div class="col-6 col-sm-4">
+    <div class="col-5 col-sm-4">
         {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
     <p class="font-weight-bold">Jingying Wang</p> 
     Incoming Ph.D. student 
 </div>
-    <div class="col-6 col-sm-4">
-        {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-5 col-sm-4">
+        {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
     <p class="font-weight-bold">Natalie Mateju</p> 
     Masters student
 </div>
-    <div class="col-6 col-sm-4">
-        {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-5 col-sm-4">
+        {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
-    <p class="font-weight-bold">Taylor Kantor</p 
+  <p class="font-weight-bold">Taylor Kantor</p> 
     MD, Resident, Cardiothoracic Surgery
 </div>
-     <div class="col-6 col-sm-4">
-        {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" %}
+     <div class="col-5 col-sm-4">
+        {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
-   <p class="font-weight-bold">Zhaoyuan Zhang</p   
+  <p class="font-weight-bold">Zhaoyuan Zhang</p>   
     Masters student
 </div>
 </div>
