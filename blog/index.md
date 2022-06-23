@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Technology & Innovation in Medical Education Lab
-description: Build Better Teams
+description:
 ---
 
 <div class="special-class" markdown="1">
@@ -12,39 +12,39 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 
 <div class="special-class" markdown="2">
-<p style="font-size:50px;">People</p>
+<p style="font-size:35px;">People</p>
 </div>
 
 
 
 <div class="container">
   <div class="row align-items-start">
-    <div class="col-md-auto">
-        {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-6 col-sm-4">
+        {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
-    <b>Jingying Wang</b> 
+    <p class="font-weight-bold">Jingying Wang</p> 
     Incoming Ph.D. student 
 </div>
-    < <div class="col-md-auto">
+    <div class="col-6 col-sm-4">
         {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    <b>Natalie Mateju</b> 
+    <p class="font-weight-bold">Natalie Mateju</p> 
     Masters student
 </div>
-    <div class="col-md-auto">
+    <div class="col-6 col-sm-4">
         {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    <b>Taylor Kantor</b> 
+    <p class="font-weight-bold">Taylor Kantor</p 
     MD, Resident, Cardiothoracic Surgery
 </div>
-     <div class="col-md-auto">
+     <div class="col-6 col-sm-4">
         {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-   <b>Zhaoyuan Zhang</b> 
+   <p class="font-weight-bold">Zhaoyuan Zhang</p   
     Masters student
 </div>
 </div>
