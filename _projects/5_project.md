@@ -2,7 +2,7 @@
 layout: page
 title: Radar
 description: Interprofessional Shared Decision-Making Teaching Tool (IP-SDM-T2)
-img: assets/img/radar.png
+img: assets/img/radar1.png
 importance: 4
 category: ongoing
 ---
