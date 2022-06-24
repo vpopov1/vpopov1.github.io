@@ -5,7 +5,7 @@ description:
 ---
 
 <div class="special-class" markdown="1">
-The Technology & Innovation in Medical Education Lab is an interdisciplinary team that conducts research about learning, teams and education technology. We primarily solve research problems in the field of medical education and focus on the ways in which healthcare professionals collaborate, coordinate, and influence one another to learn and/or perform together, usually in technology rich learning or clinical environments. Our work is situated at the intersection of Learning Sciences, Artificial Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering and the UM School of Information.
+The Technology & Innovation in Medical Education Lab is an interdisciplinary team that conducts research about learning, teams and education technology. We primarily solve research problems in the field of medical education and focus on the ways in which healthcare professionals collaborate, coordinate, and influence one another to learn and/or perform together, usually in technology rich learning or clinical environments. Our work is situated at the intersection of Learning Sciences, Artificial Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering, School of Information, School of Dentistry as well as the following Departments in the Medical Scool: Emergency Medicine, Anesthesiology, and Surgery.
 </div>
 
 
