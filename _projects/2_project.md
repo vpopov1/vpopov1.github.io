@@ -11,7 +11,7 @@ In the medical field, the technique of “breaking bad news” is incredibly imp
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-md-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/fmodel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
@@ -19,12 +19,12 @@ In the medical field, the technique of “breaking bad news” is incredibly imp
 </div>
 
 <p class="font-weight-bold">Guiding Research Questions:</p> 
-How do medical and social work students reflect, perceive and process information cues contained in feedback during BBN debrief sessions?
+(1) How do medical and social work students reflect, perceive and process information cues contained in feedback during BBN debrief sessions?
 
-Can we leverage machine learning to build a sentiment classifier, so we can reliably predict in near-real time student engagement in the debrief process?
+(2) Can we leverage machine learning to build a sentiment classifier, so we can reliably predict in near-real time student engagement in the debrief process?
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-md-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/mmodel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
@@ -32,7 +32,7 @@ Can we leverage machine learning to build a sentiment classifier, so we can reli
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-md-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/mmodel1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
@@ -44,7 +44,7 @@ The relationship between emotion and feedback is complex. This research is valua
 The research team continues to develop system for automatic quantification and interpretation of an individual’s sentiment when receiving feedback based on verbal and nonverbal behavior, such as words (speech content), head and body movements, facial expressions (when possible given camera angle), tone of voice, eye gaze, and turn taking.
     
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-md-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/mmodel2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
