@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VisMO
-description: Project VisMO is a three-year project funded by NSF
+description: VisMO - innovative origami-based program on visuospatial skill
 img: assets/img/vismo.png
 redirect: https://www.projectvismo.com/
 importance: 3
