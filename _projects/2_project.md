@@ -7,74 +7,47 @@ importance: 2
 category: ongoing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+In the medical field, the technique of “breaking bad news” is incredibly important for future doctors and social workers to practice and receive meaningful feedback on. Our research team transcribed, analyzed, and annotated over 150 standardized patient simulation videos. A novel methodology was employed for multimodal sentiment analysis, which consists of gathering sentiments from available simulation videos by extracting audio, visual, and textual data features as inputs for multimodal modeling. Then, these data streams were used to predict and classify a trainee's emotional states when receiving feedback.  Overall, the goal is to optimize the feedback delivery and reception in order to prepare future medical professionals for the critical task of delivering bad news. 
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fmodel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Feedback in team-based post-simulation debriefings. Source: adapted from Gabelica & Popov, 2020
 </div>
 
+<p class="font-weight-bold">Guiding Research Questions:</p> 
+How do medical and social work students reflect, perceive and process information cues contained in feedback during BBN debrief sessions?
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Can we leverage machine learning to build a sentiment classifier, so we can reliably predict in near-real time student engagement in the debrief process?
 
-{% raw %}
-```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mmodel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="caption">
+    Multimodal Sentiment Analysis overview: detect and classify sentiment by analyzing data from multiple modalities (visual, auditory and textual modalities in our case).
 </div>
-```
-{% endraw %}
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mmodel1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="caption">
+    We used OpenPose - a toolkit to jointly detect human body, hand, facial, and foot postures as keypoints on video frames.
+</div>
+    
+The relationship between emotion and feedback is complex. This research is valuable to the future of medical education, as analyzing the quality of feedback given can help to optimize these patient simulations and better prepare medical students for real-life situations.  
+  
+The research team continues to develop system for automatic quantification and interpretation of an individual’s sentiment when receiving feedback based on verbal and nonverbal behavior, such as words (speech content), head and body movements, facial expressions (when possible given camera angle), tone of voice, eye gaze, and turn taking.
+    
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mmodel2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="caption">
+    An example of a sentiment classifier in action with the idea of reliably predicting student perception and processing of feedback in the post-simulation debriefs.
+    </div>  
+ 
