@@ -6,42 +6,28 @@ img: assets/img/mteam.png
 importance: 7
 category: ongoing
 ---
-
-Learning how to do minimally invasive surgeries (i.e., a type of surgery that involves smaller incisions and shorter recovery time) is a cognitively demanding task that requires a high degree of visuo-spatial coordination between attending (trainer) and resident (trainee) surgeons. The purpose of this project is to determine whether eye-tracking data can be leveraged to augment assessment of surgeons’ readiness and provide trainee-specific opportunities for feedback, practice, and/or remediation. The research team (including collaborators from the Computer Science Department and Department of Surgery at U-M) has done substantial prior work including a series of operating room observations with eye tracking data collection, and an interview study understanding surgeons’ needs and challenges with intraoperative coordination, teaching and learning. 
-
+The research team has developed a multi-user Virtual Reality (VR) platform for Cardiac Arrest Resuscitation. This platform is designed to create realistic time pressure and rapid workload changes for the training of healthcare professionals. However, existing healthcare simulation training, including VR and manikin–based learning, requires constant and real-time human observation. This limitation results in learners receiving feedback that is of variable quality - often generalized, inconsistent, and highly dependent on simulation instructors. With feedback being essential for learning and development, this limits the effectiveness and scalability of simulation training. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/jva3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ireact2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/jva1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ireact.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Measuring JVA in the operating room. Both surgeons wear Tobii eye-trackers.
+    Multi-User Virtual Reality iREACT platform for Cardiac Arrest Resuscitation.
 </div>
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/jva4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A picture of a typical operating room setup and surgical team in a laparoscopic cholecystectomy surgery. In this picture, the attending surgeon (on the     left) is the primary surgeon, and the resident surgeon (on the right) is in the assisting role. The other health care professionals are members of the     team (e.g., OR nurse, anesthesiologist). Both the attending and residents surgeons look at the monitors while performing the surgery. Surgeons often
-    communicate using visual cues such as “That’s arteries right there.”, “I think this is bottom right here.”
-</div>
-
-We are currently developing human-AI collaborative techniques that could enable expert surgeons to create scalable training modules, and enable resident surgeons to monitor their own progress from novice to expert
-
-
+To fill this gap, this NSF-funded project aims to develop and evaluate a novel debriefing system that aims to capture and visualize multimodal data streams that evaluate learners’ cognitive (e.g., clinical decision-making) and behavioral (e.g., situational awareness, communication) processes to provide data-informed feedback focused on improving team-based care of patients who suffer sudden medical emergencies. Through this new multimodal debriefing system, instructors will be able to provide new insights and personalized feedback to clinicians during post-simulation debriefing sessions to allow for more meaningful reflection, targeted intervention, and rapid development of these complex skills. The project objectives are to: 1) conduct a human-centered design study with trainees and faculty to refine the concept of a multimodal debriefing system 2) engineer and evolve an unobtrusive multi-modal sensor-based data collection system; and 3) conduct a quasi-experimental study to evaluate the potential of this study’s debriefing system to improve clinical knowledge and teamwork skills.
+ 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/jva5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ireact4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A prototype of postoperative debriefing system.
+    <b>Panel A</b> shows a typical simulation-based training environment where participants practice on a manikin and realistic equipment. <b>Panel B</b> shows a screenshot of the multiple person virtual reality training system (VR-CR) that this project will build upon. <b>Panel C</b> depicts a typical debriefing scenario where instructors provide immediate feedback to participants on based on their performance. <b>Panel D</b> shows our vision for the mTEAM debriefing system.
 </div>
 
