@@ -10,7 +10,7 @@ The research team has developed a multi-user Virtual Reality (VR) platform for C
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ireact2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ireact2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ireact.png" title="example image" class="img-fluid rounded z-depth-1" %}
