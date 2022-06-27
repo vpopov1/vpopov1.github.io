@@ -53,8 +53,8 @@ The research team continues to develop system for automatic quantification and i
  
 
 <b>TEAM MEMBERS:</b>
-Milisa Manojlovich, Ph.D., RN, FAAN, Professor in the Department of Systems, Populations and Leadership at the University of Michigan School of Nursing 
-Luke Granberg, student
-Taylor Jones, student
-Kiara Turvey, student
-Raeleen Sobetski, student
+Zhaoyuan(Vincent) Zhang, MS student
+Yiqun Yao, postdoctoral research fellow at the University of Michigan
+Ava Gizoni, student
+Nicole Meimaris, student
+Coco Yu, student
