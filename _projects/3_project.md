@@ -2,7 +2,7 @@
 layout: page
 title: Sequential Analysis in XR Clinical Simulation
 description: Sequential Behavioral Analysis to Understand Decision-Making Patterns in Managing Pediatric Airway Emergencies in Extended Reality Simulated Scenarios
-img: assets/img/seq.png
+img: assets/img/cogload.png
 importance: 3
 category: ongoing
 ---
@@ -22,7 +22,7 @@ Management of critical events related to airway emergencies in children has been
 We used sequential analysis to investigate differential patterns of clinical decision-making behaviors in managing critical pediatric airway XR scenarios. Sequential analysis, a technique which helps identify sequential patterns present in a large amount of data, has been suggested by many researchers as a means to study learners' sequences of behaviors and transitions between them. In essence, sequential analysis helps detect whether the occurrence of one event is linked to the subsequent occurrence of another event in real time. Despite the fact that sequential studies provide correlational data, the identification of close temporal relationships between two events can be used to identify educational targets for improvement and potentially be linked to learning outcomes. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-md-0">
+    <div class="col-sm-12 mt-md-0">
         {% include figure.html path="assets/img/seq2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
  </div>
