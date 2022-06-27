@@ -31,3 +31,9 @@ To fill this gap, this NSF-funded project aims to develop and evaluate a novel d
     <b>Panel A</b> shows a typical simulation-based training environment where participants practice on a manikin and realistic equipment. <b>Panel B</b> shows a screenshot of the multiple person virtual reality training system (VR-CR) that this project will build upon. <b>Panel C</b> depicts a typical debriefing scenario where instructors provide immediate feedback to participants on based on their performance. <b>Panel D</b> shows our vision for the mTEAM debriefing system.
 </div>
 
+<b>TEAM:</b>
+<b>Michael Cole</b>, MD, Associate Professor in Emergency Medicine - Adult, University of Michigan,  
+<b>James Cooke</b>, MD, Professor, Departments of Learning Health Sciences and Family Medicine, University of Michigan Medical School, 
+<b>Alanson Sample</b>, PhD, Associate Professor, University of Michigan, Electrical Engineering and Computer Science Department.
+ 
+
