@@ -51,3 +51,15 @@ The research team continues to develop system for automatic quantification and i
     An example of a sentiment classifier in action with the idea of reliably predicting student perception and processing of feedback in the post-simulation debriefs.
     </div>  
  
+
+<b>TEAM MEMBERS:</b>
+Milisa Manojlovich, Ph.D., RN, FAAN, Professor in the Department of Systems, Populations and Leadership at the University of Michigan School of Nursing 
+Luke Granberg, student
+Taylor Jones, student
+Kiara Turvey, student
+Raeleen Sobetski, student
+    
+Brian George, MD, MA, Associate Professor of Surgersy  in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School
+Taylor Kantor, MD, House Officer 4 (ADT), Integrated Thoracic Surgery Residency
+Michael Kemp, MD, House Officer 6, General Surgery Residency
+Jingying Wang, incoming PhD student
