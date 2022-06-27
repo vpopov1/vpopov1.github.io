@@ -53,8 +53,8 @@ The research team continues to develop system for automatic quantification and i
  
 
 <b>TEAM MEMBERS:</b>
-Zhaoyuan(Vincent) Zhang, MS student
-Yiqun Yao, postdoctoral research fellow at the University of Michigan
-Ava Gizoni, student
-Nicole Meimaris, student
-Coco Yu, student
+<b>Zhaoyuan Zhang</b>, MS student,
+<b>Yiqun Yao</b>, postdoctoral research fellow at the University of Michigan,
+<b>Ava Gizoni</b>, student,
+<b>Nicole Meimaris</b>, student,
+<b>Coco Yu</b>, student.
