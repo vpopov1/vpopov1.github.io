@@ -45,3 +45,13 @@ We are currently developing human-AI collaborative techniques that could enable 
     A prototype of postoperative debriefing system.
 </div>
 
+
+<b>TEAM MEMBERS:</b>
+Xu Wang, PhD, Assistant Professor in Computer Science and Engineering at the University of Michigan
+Gurjit Sandhu, PhD, Associate Professor in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School
+Brian George, MD, MA, Associate Professor of Surgersy  in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School
+Taylor Kantor, MD, House Officer 4 (ADT), Integrated Thoracic Surgery Residency
+Michael Kemp, MD, House Officer 6, General Surgery Residency
+Jingying Wang, incoming PhD student
+
+
