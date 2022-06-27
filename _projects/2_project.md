@@ -58,8 +58,3 @@ Luke Granberg, student
 Taylor Jones, student
 Kiara Turvey, student
 Raeleen Sobetski, student
-    
-Brian George, MD, MA, Associate Professor of Surgersy  in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School
-Taylor Kantor, MD, House Officer 4 (ADT), Integrated Thoracic Surgery Residency
-Michael Kemp, MD, House Officer 6, General Surgery Residency
-Jingying Wang, incoming PhD student
