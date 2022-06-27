@@ -39,3 +39,10 @@ Comparison epistemic network analysis models showing the mean network locations 
     </div>
 </div>
 
+
+<b>TEAM MEMBERS:</b>
+Milisa Manojlovich, Ph.D., RN, FAAN, Professor in the Department of Systems, Populations and Leadership at the University of Michigan School of Nursing 
+Luke Granberg, student
+Taylor Jones, student
+Kiara Turvey, student
+Raeleen Sobetski, student
