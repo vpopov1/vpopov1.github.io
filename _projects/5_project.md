@@ -36,4 +36,7 @@ Five IP focus groups were completed, consisting of IP educator and learner parti
 
 Future Implications: The IP-SDM-T2 may help visualize SDM constructs from patient care scenarios and has potential to be a tool to measure and help foster SDM among IP teams and learners in the experiential setting. Future directions include mobile app development to improve ease of use and future studies (e.g., a pilot study in an experiential IPE setting).
     
+<b>TEAM:</b>
+<b>Hanna Phan</b>, Pharm.D., FCCP, FPPA, Department of Clinical Pharmacy, College of Pharmacy, University of Michigan; 
+<b>Meghan Thiel</b>, LMSW, School of Social Work, University of Michigan. 
 
