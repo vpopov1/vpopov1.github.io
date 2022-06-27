@@ -11,7 +11,7 @@ In healthcare settings, poor communication between physicians and nurses is one 
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-md-10 mt-3 mt-md-0">
+    <div class="col-md-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ena_nurse.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
    </div>
@@ -23,7 +23,7 @@ In healthcare settings, poor communication between physicians and nurses is one 
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/elan.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -34,7 +34,7 @@ In healthcare settings, poor communication between physicians and nurses is one 
 Comparison epistemic network analysis models showing the mean network locations (colored squares) and 95% confidence intervals (dashed boxes) for the physician-nurse dyads who reached a shared understanding (blue, left) and the dyads who did not reach shared understanding (red, right) along with their respective mean network graphs.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/comparison.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
