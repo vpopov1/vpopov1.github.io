@@ -31,3 +31,11 @@ We used sequential analysis to investigate differential patterns of clinical dec
 </div>
 
 <b>Future impact & implications:</b> while application of sequential behavioral analysis in medical education is not a new phenomenon, its use as a means to analyze clinical decision-making in a simulated setting is quite novel. It will be important to provide evidence for this type of analysis so that in the future it may be applied to real-life situations and potentially increase patient safety. This method of teaching and assessing behaviors may be able to impact future curriculum development based on analysis of sequential behaviors and learner decision-making patterns. This study lays a foundation for using XR technologies for healthcare workers and residents as a method to train for anytime, anywhere acute-care events (mimicking the real clinical environment) and helps identify each learner's unique needs by delivering focused, individualized feedback.
+
+
+<b>TEAM:</b>
+<b>Lauryn R. Rochlen</b>, MD; Clinical Associate Professor; University of Michigan,
+<b>Elizabeth M, Putnam</b>, MBBS; Clinical Assistant Professor; University of Michigan,
+<b>Alan R. Tait</b>, Ph.D.; Professor Emeritus; University of Michigan,
+<b>Hanxiang Du</b>; M.S.; University of Florida.
+
