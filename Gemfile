@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
-    gem 'jekyll-picture-tag', '~> 0.2.3
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
