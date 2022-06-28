@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Michigan</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg width="auto" width="100%"
   address: >
     <p>#220 Victor Vaughan</p>
     <p>1111 E. Catherine Str.</p>
