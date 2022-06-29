@@ -11,7 +11,7 @@ In the medical field, the technique of “breaking bad news” is incredibly imp
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-md-10 mt-3 mt-md-0">
+    <div class="col-md-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/fmodel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
@@ -52,8 +52,8 @@ The research team continues to develop system for automatic quantification and i
     </div>  
  
 
-<b>TEAM MEMBERS:</b>
-<b>Zhaoyuan Zhang</b>, MS student,
+<b>TEAM MEMBERS:</b> 
+ <b>Zhaoyuan Zhang</b>, MS student,
 <b>Yiqun Yao</b>, postdoctoral research fellow at the University of Michigan,
 <b>Ava Gizoni</b>, student,
 <b>Nicole Meimaris</b>, student,
