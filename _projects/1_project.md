@@ -46,8 +46,8 @@ We are currently developing human-AI collaborative techniques that could enable 
 </div>
 
 
-<b>TEAM MEMBERS:</b>
-Xu Wang, PhD, Assistant Professor in Computer Science and Engineering at the University of Michigan,
+<b>TEAM MEMBERS:</b> 
+<b>Xu Wang</b>, PhD, Assistant Professor in Computer Science and Engineering at the University of Michigan,
 <b>Gurjit Sandhu</b>, PhD, Associate Professor in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School,
 <b>Brian George</b>, MD, MA, Associate Professor of Surgersy  in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School,
 <b>Taylor Kantor</b>, MD, House Officer 4 (ADT), Integrated Thoracic Surgery Residency,
