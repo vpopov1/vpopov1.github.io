@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-New content to be publsihed soon!
+New content to be published soon!
