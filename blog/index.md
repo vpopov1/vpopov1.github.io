@@ -24,7 +24,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     </div>
 <div class="caption">
     <p class="font-weight-bold">Jingying Wang</p> 
-    Incoming Ph.D. student 
+    Ph.D. student 
 </div>
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
