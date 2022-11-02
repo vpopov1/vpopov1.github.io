@@ -41,11 +41,11 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     MD, Surgical Resident
 </div>
      <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/vincent.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/Yaxuan_Li.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
-  <p class="font-weight-bold">Zhaoyuan Zhang</p>   
-    Masters student
+  <p class="font-weight-bold">Yaxuan Li</p>   
+    PhD student
 </div>
 </div>
 </div>
