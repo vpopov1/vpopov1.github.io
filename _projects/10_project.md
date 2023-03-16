@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Looking for CS student intern
-description: Advancing Emergency Medicine Trainee Skills using Multimodal Debriefing System in Simulation-based Training
+description: Developing Multimodal Debriefing System in Simulation-based Training
 img: assets/img/dashboard.png
 importance: 1
 category: ongoing
