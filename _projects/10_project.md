@@ -14,7 +14,6 @@ The successful candidate will help engineer and evolve an unobtrusive multi-moda
 
 <b>Qualification requirements</b>
 
-Applicants must hold a PhD degree or equivalent in computer science, statistics, learning science, or another field with relevance to higher education research (e.g., learning analytics, human factors, social or behavioral sciences). 
 The successful applicant should have a strong background in some or all of the following subjects, or a related discipline: 
 •	social signal processing
 •	machine learning
