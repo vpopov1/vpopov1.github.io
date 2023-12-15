@@ -40,7 +40,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
         {% include figure.html path="assets/img/bryan.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Bryan Harmer</p>   
-            Postdoctoral Research Scholar
+            PhD, Postdoctoral Research Scholar
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
