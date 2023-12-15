@@ -31,7 +31,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     </div>
 <div class="caption">
     <p class="font-weight-bold">Natalie Mateju</p> 
-    Masters student
+    Medical student
 </div>
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
@@ -41,11 +41,28 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     MD, Surgical Resident
 </div>
      <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/Yaxuan_Li.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/bryan.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
     </div>
 <div class="caption">
-  <p class="font-weight-bold">Yaxuan Li</p>   
-    PhD student
+  <p class="font-weight-bold">Bryan Harmer</p>   
+    Postdoctoral Research Scholar
+</div>
+    </div>
+    <div class="col-5 col-sm-4 mt-md-0">
+        {% include figure.html path="assets/img/sonal.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+    </div>
+<div class="caption">
+  <p class="font-weight-bold">Sonal Joshi</p> 
+    PhD, MSE Medical Student
+</div>
+  </div>
+    </div>
+    <div class="col-5 col-sm-4 mt-md-0">
+        {% include figure.html path="assets/img/sophie.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+    </div>
+<div class="caption">
+  <p class="font-weight-bold">Sophie Raphael</p> 
+    Undergraduate Student
 </div>
 </div>
 </div>
