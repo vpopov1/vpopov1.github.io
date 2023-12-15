@@ -9,60 +9,53 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 </div>
 
 
-
-
 <div class="special-class" markdown="2">
 <p style="font-size:35px;">People</p>
 </div>
-
-
 
 <div class="container">
   <div class="row align-items-start">
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        <div class="caption">
+            <p class="font-weight-bold">Jingying Wang</p> 
+            PhD student 
+        </div>
     </div>
-<div class="caption">
-    <p class="font-weight-bold">Jingying Wang</p> 
-    PhD student 
-</div>
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/natalie.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        <div class="caption">
+            <p class="font-weight-bold">Natalie Mateju</p> 
+            Medical student
+        </div>
     </div>
-<div class="caption">
-    <p class="font-weight-bold">Natalie Mateju</p> 
-    Medical student
-</div>
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        <div class="caption">
+            <p class="font-weight-bold">Taylor Kantor</p> 
+            MD, Surgical Resident
+        </div>
     </div>
-<div class="caption">
-  <p class="font-weight-bold">Taylor Kantor</p> 
-    MD, Surgical Resident
-</div>
-     <div class="col-5 col-sm-4 mt-md-0">
+    <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/bryan.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
-    </div>
-<div class="caption">
-  <p class="font-weight-bold">Bryan Harmer</p>   
-    Postdoctoral Research Scholar
-</div>
+        <div class="caption">
+            <p class="font-weight-bold">Bryan Harmer</p>   
+            Postdoctoral Research Scholar
+        </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/sonal.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
-    </div>
-<div class="caption">
-  <p class="font-weight-bold">Sonal Joshi</p> 
-    PhD, MSE Medical Student
-</div>
-  </div>
+        <div class="caption">
+            <p class="font-weight-bold">Sonal Joshi</p> 
+            PhD, MSE Medical Student
+        </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
         {% include figure.html path="assets/img/sophie.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        <div class="caption">
+            <p class="font-weight-bold">Sophie Raphael</p> 
+            Undergraduate Student
+        </div>
     </div>
-<div class="caption">
-  <p class="font-weight-bold">Sophie Raphael</p> 
-    Undergraduate Student
-</div>
-</div>
+  </div>
 </div>
