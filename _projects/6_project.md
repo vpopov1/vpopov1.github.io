@@ -28,7 +28,7 @@ In healthcare settings, poor communication between physicians and nurses is one 
     </div>
 </div>
 <div class="caption">
-    A screenshot of the ELAN software with one segment depicting physician and nurse with blurred face to protect data privacy.
+    A screenshot of the ELAN software with one segment depicting physician and nurse with blurred faces to protect data privacy.
 </div>
 
 Comparison epistemic network analysis models showing the mean network locations (colored squares) and 95% confidence intervals (dashed boxes) for the physician-nurse dyads who reached a shared understanding (blue, left) and the dyads who did not reach shared understanding (red, right) along with their respective mean network graphs.
