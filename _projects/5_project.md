@@ -11,23 +11,12 @@ Limited data exists regarding real-time feedback and assessment of Interprofessi
 
 In collaboration with Dr. Phan (UM College of Pharmacy) and Meghan Thiel (UM School of Social Work), we adapted the SDM-Q-9 for IP care, mapped the items to the four constructs of SDM (establishing ongoing partnership, information exchange, deliberating options, deciding-acting on decision), and integrated into a radar feedback graphical tool, where output is a visualization of individual, care team, and patient/family perspectives on a given SDM situation. 
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sdm.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The intent of the adaption of the SDM-Q-9 was to translate it to IP patient care versus a 1:1 care between a given physician and patient. Similarly,
-there are two versions, one for care team members and one for patient/family members.
-</div>
-
 Five IP focus groups were completed, consisting of IP educator and learner participants, where the team defined IP SDM, oriented participants to the IP-SDM-T2, showed a video clinical scenario with IP SDM, had participants “test drive” IP-SDM-T2 followed by a semi-structured discussion about the tool, then, complete an online survey about tool usability and provide demographic data. 
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/radarexample.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/radar2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
