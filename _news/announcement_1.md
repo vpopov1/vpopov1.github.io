@@ -1,7 +1,7 @@
-##---
-##layout: post
-##date: 2022-05-02 15:59:00-0400
-##inline: false
-###---
+---
+layout: post
+date: 2024-05-14 15:59:00-0400
+inline: false
+---
 
-##Presented our paper "Towards Supporting Intraoperative Coordination and Entrustment in Surgical Faculty-Resident Dyads: Looking Together ≠ Seeing the ##Same Thing" at CHI'22
+Collaboration with UM School of Information SI 582 Intro to Interaction Design course.[How an experimental intro class shaped UMSI students' paths](https://www.si.umich.edu/about-umsi/news/due-course-how-experimental-intro-class-shaped-umsi-students-paths) 
