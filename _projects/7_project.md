@@ -8,12 +8,12 @@ category: ongoing
 ---
 The research team has developed a multi-user Virtual Reality (VR) platform for Cardiac Arrest Resuscitation. This platform is designed to create realistic time pressure and rapid workload changes for the training of healthcare professionals. However, existing healthcare simulation training, including VR and manikin–based learning, requires constant and real-time human observation. This limitation results in learners receiving feedback that is of variable quality - often generalized, inconsistent, and highly dependent on simulation instructors. With feedback being essential for learning and development, this limits the effectiveness and scalability of simulation training. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/ireactdemo.png" class="img-fluid rounded z-depth-1">
+<div class="row">
+    <div class="col-sm">
+        {% include figure.html path="assets/img/ireactdemo.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/iReact2.jpg" class="img-fluid rounded z-depth-1">
+     <div class="col-sm">
+        {% include figure.html path="assets/img/iReact2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
