@@ -1,7 +1,7 @@
-##---
-##layout: post
-##date: 2022-06-15 15:59:00-0400
-##inline: true
-##---
+---
+layout: post
+date: 2024-05-13 15:59:00-0400
+inline: true
+---
 
-##I will be teaching LHS 680 Teamwork for Healthcare in Winter'23. The course will be offered fully in person, fully online, and a little bit of both.
+[Leveraging AI to improve video-based surgical learning](https://cse.engin.umich.edu/stories/leveraging-ai-to-improve-video-based-surgical-learning)
