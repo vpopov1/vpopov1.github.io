@@ -34,10 +34,10 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/taylor.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/min.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
-            <p class="font-weight-bold">Taylor Kantor</p> 
-            MD, Surgical Resident
+            <p class="font-weight-bold">Hyunmin Park</p> 
+            PhD student at CSE; mTeam research staff 
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
