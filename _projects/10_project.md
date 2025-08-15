@@ -2,7 +2,7 @@
 layout: page
 title: Call for ACLS Participants
 description: Multi-user Virtual Reality App to Train Healthcare Professionals for In-Hospital Cardiac Arrest Care
-img: assets/img/dashboard.png
+img: assets/img/ireact1.jpg
 importance: 1
 category: ongoing
 ---
