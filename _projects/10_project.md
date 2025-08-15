@@ -1,29 +1,39 @@
 ---
 layout: page
-title: Looking for CS student intern with web development in React 
-description: Developing Multimodal Debriefing System in Simulation-based Training
+title: Call for ACLS Participants
+description: Multi-user Virtual Reality App to Train Healthcare Professionals for In-Hospital Cardiac Arrest Care
 img: assets/img/dashboard.png
 importance: 1
 category: ongoing
 ---
 <b>Overview:</b>
 
-Dr. Popov’s lab is seeking a highly motivated, talented CS student with experience in web development to join a dynamic research team with expertise in learning sciences, medical education, and computer science. This position involves developing a novel debriefing dashboard that aims to capture and visualize multimodal data streams from the clinical simulation environment. Through this new multimodal debriefing system, instructors will be able to provide new insights and personalized feedback to medical students during post-simulation debriefing sessions to allow for more meaningful reflection, targeted intervention, and rapid development of these complex skills. 
+This novel VR simulation places a team of four participants in an in-hospital rapid-response style scenario wherein they arrive at the side of a critically ill patient, receive a care report from a bedside nurse, and must collaboratively provide life-saving care during a ~15-minute medical scenario. This project, funded by the National Science Foundation, aims to develop and evaluate a novel debriefing system that aims to provide data-informed feedback focused on improving team-based care of patients who suffer sudden medical emergencies.
 
-The successful candidate will help engineer front-end portion of the web-based dashboard.
+<div>
+    {% include figure.html path="assets/img/ireactdemo.png" title="example image" class="img-fluid w-100 rounded z-depth-1" %}
+</div>
+<div class="caption">
+    Multi-User Virtual Reality iREACT platform for Cardiac Arrest Resuscitation.
+</div>
 
-<b>Qualification requirements</b>
 
-The successful applicant should have a strong background in some or all of the following subjects, or a related discipline: 
-•	strong programming skills in at least one relevant language (e.g. C/C++, Java, Python)
-• experience with front-end development using the React library
-•	machine learning
-•	experience with data mining, data analytics and visualization tools.
+<b>During the study, participants will:</b>
 
-<b>How to Apply:</b>
+•	Wear a VR headset and perform two mock codes with a post-simulation debrief. 
+•	Provide basic demographic information (e.g., age, clinical experience).
 
-The application must include:
-•	CV 
-•	Information about any prior projects or research publication(s) relevant to the project 
+Duration: ~60-90 minutes
+Location: TBD or U-M Clinical Simulation Center (Towsley or Med Sci II)
+To participate in the study, you must be ACLS certified
 
-For more information about the position, please contact Dr. Vitaliy Popov via email vipopov@umich.edu
+<b>Express your Interest:</b>
+
+•	Please use this [LINK](https://forms.gle/HEvWpJYWUjBqDFD5A) 
+•	Scan the QR code below, or contact Dr. Vitaliy Popov (vipopov@umich.edu) for sign-up details.
+
+<div>
+    {% include figure.html path="assets/img/qr.png" title="example image" class="img-fluid w-70 rounded z-depth-1" %}
+</div>
+
+This study was approved by the University of Michigan Medical School Institutional Review Board (reference number: HUM00193383).
