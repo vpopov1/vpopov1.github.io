@@ -8,7 +8,7 @@ category: ongoing
 ---
 <b>Overview:</b>
 
-This novel VR simulation places a team of four participants in an in-hospital rapid-response style scenario wherein they arrive at the side of a critically ill patient, receive a care report from a bedside nurse, and must collaboratively provide life-saving care during a ~15-minute medical scenario. This project, funded by the National Science Foundation, aims to develop and evaluate a novel debriefing system that aims to provide data-informed feedback focused on improving team-based care of patients who suffer sudden medical emergencies.
+This novel VR simulation places a team of four participants in an in-hospital rapid-response style scenario wherein they arrive at the side of a critically ill patient, receive a care report from a bedside nurse, and must collaboratively provide life-saving care during a ~15-minute medical scenario. This project, funded by the National Science Foundation (#2202451), aims to develop and evaluate a novel debriefing system that aims to provide data-informed feedback focused on improving team-based care of patients who suffer sudden medical emergencies.
 
 <div>
     {% include figure.html path="assets/img/ireactdemo.png" title="example image" class="img-fluid w-100 rounded z-depth-1" %}
@@ -17,10 +17,21 @@ This novel VR simulation places a team of four participants in an in-hospital ra
     Multi-User Virtual Reality iREACT platform for Cardiac Arrest Resuscitation.
 </div>
 
+<div class="video-container" style="text-align:center;">
+  <iframe width="90%" height="450"
+    src="[https://www.youtube.com/embed/PUT_YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=MjvD4-dS1CI)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <div class="caption">
+    Demo of Multi-User Virtual Reality iREACT Platform
+  </div>
+</div>
 
 <b>During the study, participants will:</b>
 
-•	Wear a VR headset and perform two mock codes with a post-simulation debrief. 
+•	Wear a VR headset and perform two mock codes with a post-simulation debrief 
 •	Provide basic demographic information (e.g., age, clinical experience).
 
 Duration: ~60-90 minutes
