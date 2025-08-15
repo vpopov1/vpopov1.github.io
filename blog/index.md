@@ -17,59 +17,76 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 <p style="font-size:35px;">People</p>
 </div>
 
+<!-- Place this <style> block at the top of your page or in your CSS file -->
+<style>
+.portrait-img {
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.caption {
+  text-align: center;
+  margin-top: 10px;
+}
+</style>
+
 <div class="container">
   <div class="row align-items-start">
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/jing.png" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/jing.png" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Jingying Wang</p> 
             PhD student 
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/niki.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/niki.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Nikolas Grotewold</p> 
             Medical and PhD student
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/min.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/min.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Hyunmin Park</p> 
             PhD student at CSE; mTeam research staff 
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/candice.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/candice.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Candice Stegink</p>   
             PhD student 
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/das.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/das.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Kapatoksha Das</p> 
             PhD student (incoming postdoc)
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/haoting.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/haoting.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Haoting Gao</p> 
             PhD student
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/janet.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/janet.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Janet Johnson, PhD</p> 
             Postdoctoral scholar
         </div>
     </div>
     <div class="col-5 col-sm-4 mt-md-0">
-        {% include figure.html path="assets/img/root.jpg" title="example image" class="img-fluid rounded z-depth-1" alt="Right aligned" %}
+        {% include figure.html path="assets/img/root.jpg" title="example image" class="portrait-img rounded z-depth-1" alt="Right aligned" %}
         <div class="caption">
             <p class="font-weight-bold">Benjamin C. Root, MD</p> 
             Resident
