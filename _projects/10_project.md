@@ -19,17 +19,17 @@ This novel VR simulation places a team of four participants in an in-hospital ra
 
 <b>During the study, participants will:</b>
 
-•	Wear a VR headset and perform two mock codes with a post-simulation debrief 
-•	Provide basic demographic information (e.g., age, clinical experience).
+- Wear a VR headset and perform two mock codes with a post-simulation debrief
+- Provide basic demographic information (e.g., age, clinical experience).
 
-Duration: ~60-90 minutes
-Location: TBD or U-M Clinical Simulation Center (Towsley or Med Sci II)
-To participate in the study, you must be ACLS certified
+- Duration: ~60-90 minutes
+- Location: TBD or U-M Clinical Simulation Center (Towsley or Med Sci II)
+- To participate in the study, you must be ACLS certified
 
 <b>Express your Interest:</b>
 
-•	Please use this [LINK](https://forms.gle/HEvWpJYWUjBqDFD5A) 
-•	Scan the QR code below, or contact Dr. Vitaliy Popov (vipopov@umich.edu) for sign-up details.
+- Please use this [LINK](https://forms.gle/HEvWpJYWUjBqDFD5A)
+- Scan the QR code below, or contact Dr. Vitaliy Popov (vipopov@umich.edu) for sign-up details.
 
 <div>
     {% include figure.html path="assets/img/qr.png" title="example image" class="img-fluid w-70 rounded z-depth-1" %}
