@@ -7,7 +7,7 @@ importance: 1
 category: ongoing
 ---
 
-Learning how to do minimally invasive surgeries (i.e., a type of surgery that involves smaller incisions and shorter recovery time) is a cognitively demanding task that requires a high degree of visuo-spatial coordination between attending (trainer) and resident (trainee) surgeons. The purpose of this project is to determine whether eye-tracking data can be leveraged to augment assessment of surgeons’ readiness and provide trainee-specific opportunities for feedback, practice, and/or remediation. The research team (including collaborators from the Computer Science Department and Department of Surgery at U-M) has done substantial prior work including a series of operating room observations with eye tracking data collection, and an interview study understanding surgeons’ needs and challenges with intraoperative coordination, teaching and learning. 
+Learning how to do minimally invasive surgeries (i.e., a type of surgery that involves smaller incisions and shorter recovery time) is a cognitively demanding task that requires a high degree of visuo-spatial coordination between attending (trainer) and resident (trainee) surgeons. The purpose of this project is to determine whether eye-tracking data can be leveraged to augment assessment of surgeons’ readiness and provide trainee-specific opportunities for feedback, practice, and/or remediation. The research team (including collaborators from the Computer Science Department and Department of Surgery at U-M) has done substantial prior work, including a series of operating room observations with eye tracking data collection, and an interview study understanding surgeons’ needs and challenges with intraoperative coordination, teaching, and learning. [To learn more about this research](https://web.eecs.umich.edu/sch) 
 
 
 <div class="row justify-content-sm-center">
@@ -29,8 +29,8 @@ Learning how to do minimally invasive surgeries (i.e., a type of surgery that in
     </div>
 </div>
 <div class="caption">
-    A picture of a typical operating room setup and surgical team in a laparoscopic cholecystectomy surgery. In this picture, the attending surgeon (on the     left) is the primary surgeon, and the resident surgeon (on the right) is in the assisting role. The other health care professionals are members of the     team (e.g., OR nurse, anesthesiologist). Both the attending and residents surgeons look at the monitors while performing the surgery. Surgeons often
-    communicate using visual cues such as “That’s arteries right there.”, “I think this is bottom right here.”
+    A picture of a typical operating room setup and surgical team in a laparoscopic cholecystectomy surgery. In this picture, the attending surgeon (on the     left) is the primary surgeon, and the resident surgeon (on the right) is in the assisting role. The other health care professionals are members of the     team (e.g., OR nurse, anesthesiologist). Both the attending and resident surgeons look at the monitors while performing the surgery. Surgeons often
+    communicate using visual cues such as “That’s arteries right there.”, “I think this is the bottom right here.”
 </div>
 
 We are currently developing human-AI collaborative techniques that could enable expert surgeons to create scalable training modules, and enable resident surgeons to monitor their own progress from novice to expert
@@ -48,10 +48,9 @@ We are currently developing human-AI collaborative techniques that could enable 
 
 <b>TEAM MEMBERS:</b> 
 <b>Xu Wang</b>, PhD, Assistant Professor in Computer Science and Engineering at the University of Michigan,
+<b>Anhong Guo</b>, PhD, Assistant Professor in Computer Science and Engineering at the University of Michigan,
 <b>Gurjit Sandhu</b>, PhD, Associate Professor in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School,
-<b>Brian George</b>, MD, MA, Associate Professor of Surgersy  in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School,
-<b>Taylor Kantor</b>, MD, House Officer 4 (ADT), Integrated Thoracic Surgery Residency,
-<b>Michael Kemp</b>, MD, House Officer 6, General Surgery Residency,
-<b>Jingying Wang</b>, incoming PhD student.
+<b>Brian George</b>, MD, MA, Associate Professor of Surgery  in the Department of Surgery and Learning Health Sciences, University of Michigan Medical School,
+<b>Jingying Wang</b>, PhD student.
 
 
