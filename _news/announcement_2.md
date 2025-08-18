@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RISE
-date: 2024-06-12 16:11:00-0400
+title: Failure
+date: 2025-04-12 16:11:00-0400
 inline: true
 ---
 
