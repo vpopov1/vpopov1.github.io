@@ -8,7 +8,7 @@ category: ongoing
 ---
 <b>Overview:</b>
 
-This novel VR simulation places a team of four participants in an in-hospital rapid-response style scenario wherein they arrive at the side of a critically ill patient, receive a care report from a bedside nurse, and must collaboratively provide life-saving care during a ~15-minute medical scenario (see short [Demo Video](https://www.youtube.com/watch?v=MjvD4-dS1CI). This project, funded by the National Science Foundation (#2202451), aims to develop and evaluate a novel debriefing system that aims to provide data-informed feedback focused on improving team-based care of patients who suffer sudden medical emergencies.
+This novel VR simulation places a team of four participants in an in-hospital rapid-response style scenario wherein they arrive at the side of a critically ill patient, receive a care report from a bedside nurse, and must collaboratively provide life-saving care during a ~15-minute medical scenario (see short [Demo Video](https://www.youtube.com/watch?v=MjvD4-dS1CI). This project, funded by the National Science Foundation (#2202451), aims to develop and evaluate a novel debriefing system that provides data-informed feedback focused on improving team-based care for patients who suffer sudden medical emergencies.
 
 <div>
     {% include figure.html path="assets/img/ireactdemo.png" title="example image" class="img-fluid w-100 rounded z-depth-1" %}
