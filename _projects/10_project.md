@@ -22,7 +22,7 @@ This novel VR simulation places a team of four participants in an in-hospital ra
 - Wear a VR headset and perform two mock codes with a post-simulation debrief
 - Provide basic demographic information (e.g., age, clinical experience).
 
-- Duration: ~60-90 minutes
+- Duration: ~75-90 minutes
 - Location: TBD or U-M Clinical Simulation Center (Towsley or Med Sci II)
 - To participate in the study, you must be ACLS certified
 
