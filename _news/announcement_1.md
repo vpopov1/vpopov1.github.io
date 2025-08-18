@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-14 15:59:00-0400
+date: 2025-07-14 15:59:00-0400
 inline: true
 ---
 
-Collaboration with UM School of Information SI 582 Intro to Interaction Design course. [How an experimental intro class shaped UMSI students' paths](https://www.si.umich.edu/about-umsi/news/due-course-how-experimental-intro-class-shaped-umsi-students-paths) 
+New NSF-funded project: [Multimodal Techniques to Enhance Intra- and Post-operative Learning and Coordination between Attending and Resident Surgeons](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2406218&HistoricalAwards=false) 
