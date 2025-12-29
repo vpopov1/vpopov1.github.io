@@ -65,10 +65,20 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 <div class="col-lg-4 col-md-6 col-sm-12">
   <div class="team-member">
-    {% include figure.html path="assets/img/min.jpg" title="Hyunmin Park" class="portrait-img rounded z-depth-1" alt="Hyunmin Park" %}
+    {% include figure.html path="assets/img/cami.jpg" title="Cami Trendy" class="portrait-img rounded z-depth-1" alt="Cami Trendy" %}
     <div class="caption">
-      <p class="font-weight-bold">Hyunmin Park</p> 
-      <p>PhD student at CSE; mTeam research staff</p>
+      <p class="font-weight-bold">Cami Trendy</p> 
+      <p>UROP student</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6 col-sm-12">
+  <div class="team-member">
+    {% include figure.html path="assets/img/zoe.jpg" title="Zoe Co" class="portrait-img rounded z-depth-1" alt="Zoe Co" %}
+    <div class="caption">
+      <p class="font-weight-bold">Zoe Co</p> 
+      <p>PhD student</p>
     </div>
   </div>
 </div>
@@ -105,9 +115,9 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 <div class="col-lg-4 col-md-6 col-sm-12">
   <div class="team-member">
-    {% include figure.html path="assets/img/janet.jpg" title="Janet Johnson" class="portrait-img rounded z-depth-1" alt="Janet Johnson" %}
+    {% include figure.html path="assets/img/Liang.jpg" title="Liang Zhang" class="portrait-img rounded z-depth-1" alt="Liang Zhang" %}
     <div class="caption">
-      <p class="font-weight-bold">Janet Johnson, PhD</p> 
+      <p class="font-weight-bold">Liang Zhang, PhD</p> 
       <p>Postdoctoral scholar</p>
     </div>
   </div>
