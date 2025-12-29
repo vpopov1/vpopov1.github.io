@@ -98,7 +98,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     {% include figure.html path="assets/img/das.jpg" title="Kapatoksha Das" class="portrait-img rounded z-depth-1" alt="Kapatoksha Das" %}
     <div class="caption">
       <p class="font-weight-bold">Kapatoksha Das</p> 
-      <p>PhD student (incoming postdoc)</p>
+      <p>Postdoctoral scholar</p>
     </div>
   </div>
 </div>
