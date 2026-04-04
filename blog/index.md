@@ -132,3 +132,9 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
     </div>
   </div>
 </div>
+
+<script
+  type="text/javascript"
+  id="mapmyvisitors"
+  src="//mapmyvisitors.com/map.js?d=m0FC_fPK1-kCm-qHLZQhiX1-QYnmZKWViAxfR2flV8Y&cl=ffffff&w=a">
+</script>
