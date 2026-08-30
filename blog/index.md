@@ -57,7 +57,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
   <div class="team-member">
     {% include figure.html path="assets/img/Dailey.jpg" title="Stephanie Dailey" class="portrait-img rounded z-depth-1" alt="Stephanie Dailey" %}
     <div class="caption">
-      <p class="font-weight-bold">Nikolas Grotewold</p> 
+      <p class="font-weight-bold">Stephanie Dailey</p> 
       <p>PhD student</p>
     </div>
   </div>
@@ -65,7 +65,7 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
 <div class="col-lg-4 col-md-6 col-sm-12">
   <div class="team-member">
-    {% include figure.html path="assets/img/cami.jpg" title="Yeyu Wang" class="portrait-img rounded z-depth-1" alt="Yeyu Wang" %}
+    {% include figure.html path="assets/img/Yeyu.jpg" title="Yeyu Wang" class="portrait-img rounded z-depth-1" alt="Yeyu Wang" %}
     <div class="caption">
       <p class="font-weight-bold">Yeyu Wang</p> 
       <p>MIDAS Postdoctoral scholar</p>
