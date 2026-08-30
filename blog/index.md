@@ -5,7 +5,7 @@ description:
 ---
 
 <div class="special-class" markdown="1">
-The Technology & Innovation in Medical Education Lab is an interdisciplinary team that conducts research about learning, teams, and education technology. We primarily solve research problems in the field of medical education and focus on how healthcare professionals collaborate, coordinate, and influence one another to learn and/or perform together, usually in technology-rich learning or clinical environments. Our work is situated at the intersection of Learning Sciences, Artificial Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering, School of Information, School of Dentistry as well as the following Departments in the Medical School: Emergency Medicine, Anesthesiology, and Surgery.
+The Technology & Innovation in Medical Education Lab is an interdisciplinary team that researches learning, teams, and educational technology. We primarily solve research problems in the field of health professions education and focus on how healthcare professionals collaborate, make decisions, and influence one another to learn and/or perform together, usually in technology-rich simulated or clinical environments. Our work is situated at the intersection of Learning Sciences, HCI, Artificial Intelligence, and eXtended Reality. We collaborate closely with UM faculty in Computer Science & Engineering, School of Information, School of Dentistry as well as the following Departments in the Medical School: Emergency Medicine, Anesthesiology, and Surgery.
 </div>
 <div class="special-class" markdown="1">
 <p style="font-size:35px; text-align:center; margin-bottom:2rem;">People</p>
@@ -55,20 +55,20 @@ The Technology & Innovation in Medical Education Lab is an interdisciplinary tea
 
     <div class="col-lg-4 col-md-6 col-sm-12">
   <div class="team-member">
-    {% include figure.html path="assets/img/niki.jpg" title="Nikolas Grotewold" class="portrait-img rounded z-depth-1" alt="Nikolas Grotewold" %}
+    {% include figure.html path="assets/img/Dailey.jpg" title="Stephanie Dailey" class="portrait-img rounded z-depth-1" alt="Stephanie Dailey" %}
     <div class="caption">
       <p class="font-weight-bold">Nikolas Grotewold</p> 
-      <p>Medical and PhD student</p>
+      <p>PhD student</p>
     </div>
   </div>
 </div>
 
 <div class="col-lg-4 col-md-6 col-sm-12">
   <div class="team-member">
-    {% include figure.html path="assets/img/cami.jpg" title="Cami Trendy" class="portrait-img rounded z-depth-1" alt="Cami Trendy" %}
+    {% include figure.html path="assets/img/cami.jpg" title="Yeyu Wang" class="portrait-img rounded z-depth-1" alt="Yeyu Wang" %}
     <div class="caption">
-      <p class="font-weight-bold">Cami Trendy</p> 
-      <p>UROP student</p>
+      <p class="font-weight-bold">Yeyu Wang</p> 
+      <p>MIDAS Postdoctoral scholar</p>
     </div>
   </div>
 </div>
