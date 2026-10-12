@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call for ACLS Participants
-description: Multi-user Virtual Reality App to Train Healthcare Professionals for In-Hospital Cardiac Arrest Care
+title:  Multi-user Virtual Reality Simulation to Train Healthcare Professionals for In-Hospital Cardiac Arrest Care
+description: November 10th 
 img: assets/img/ireact1.jpg
 importance: 1
 category: ongoing
@@ -22,17 +22,12 @@ This novel VR simulation places a team of four participants in an in-hospital ra
 - Wear a VR headset and perform two mock codes with a post-simulation debrief
 - Provide basic demographic information (e.g., age, clinical experience).
 
-- Duration: ~75-90 minutes
-- Location: TBD or U-M Clinical Simulation Center (Towsley or Med Sci II)
-- To participate in the study, you must be ACLS certified
+- Duration: ~120 minutes
+- Location: Taubman Health Sciences Library, 3rd Floor, Center for Experiential Learning and Assessment (CELA), Blue Lab.
 
-<b>Express your Interest:</b>
 
-- Please use this [LINK](https://forms.gle/HEvWpJYWUjBqDFD5A)
-- Scan the QR code below, or contact Dr. Vitaliy Popov (vipopov@umich.edu) for sign-up details.
+<b>Sign up</b>
 
-<div>
-    {% include figure.html path="assets/img/qr.png" title="example image" class="img-fluid w-70 rounded z-depth-1" %}
-</div>
+- Please use this [LINK](https://signup.com/go/gQzhfzU)
 
 This study was approved by the University of Michigan Medical School Institutional Review Board (reference number: HUM00193383).
